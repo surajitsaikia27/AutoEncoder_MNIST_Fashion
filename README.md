@@ -4,6 +4,6 @@ In the past decade Image retrieval is the advancing Field of research in the com
 plays a significant role for such retrieval systems. Autoencoder is a Neural Network and also an unsupervised Learning Algorithm. 
 It applies Backpropogation algorithm by settiing the same input as  the target value.
 
-#Installation and running
-Install Tensorflow
-pip install tensorflow
+# Installation and running
+Install Tensorflow.
+'''pip install tensorflow'''
