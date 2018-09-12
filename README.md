@@ -16,7 +16,7 @@ pip install tensorflow
 Download the MNIST Fashion Dataset
 https://www.kaggle.com/zalando-research/fashionmnist
 
-Put the proper path of the dataset, and type
+Put the proper path of the dataset in autoencoder.py file , and type
 ```
 python autoencoder.py
 ```
