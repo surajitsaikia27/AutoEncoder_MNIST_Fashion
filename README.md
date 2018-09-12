@@ -5,5 +5,11 @@ plays a significant role for such retrieval systems. Autoencoder is a Neural Net
 It applies Backpropogation algorithm by settiing the same input as  the target value.
 
 # Installation and running
-Install Tensorflow.
-'''pip install tensorflow'''
+Install Tensorflow for GPU machine
+```
+pip install tensorflow-gpu
+```
+If you dont have GPU
+```
+pip install tensorflow
+```
