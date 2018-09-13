@@ -35,10 +35,10 @@ images = np.loadtxt('./fashionmnist/fashion-mnist_train.csv', delimiter = ',', s
 
 #ENCODER
 nodes_input_layer = 784
-nodes_first_hidden = 16
+nodes_first_hidden = 32
 
 #DECODER
-nodes_second_hidden = 16
+nodes_second_hidden = 32
 nodes_output_layer = 784
 
 
